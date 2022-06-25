@@ -1,0 +1,14 @@
+/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/bin/iPhoneSimulator/Debug/UberClone.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.2.0.42/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+/Users/phihoanghuy/.nuget/packages/xamarin.firebase.ios.auth/4.4.1/lib/Xamarin.iOS10/Firebase.Auth.dll
+/Users/phihoanghuy/.nuget/packages/xamarin.firebase.ios.core/4.0.13/lib/Xamarin.iOS10/Firebase.Core.dll
+/Users/phihoanghuy/.nuget/packages/xamarin.firebase.ios.instanceid/2.0.8/lib/Xamarin.iOS10/Firebase.InstanceID.dll
+/Users/phihoanghuy/.nuget/packages/xamarin.firebase.ios.analytics/4.0.5/lib/Xamarin.iOS10/Firebase.Analytics.dll

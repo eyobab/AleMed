@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/UberClone.csproj": {}
+  },
+  "projects": {
+    "/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/UberClone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/UberClone.csproj",
+        "projectName": "UberClone",
+        "projectPath": "/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/UberClone.csproj",
+        "packagesPath": "/Users/phihoanghuy/.nuget/packages/",
+        "outputPath": "/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/phihoanghuy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Firebase.iOS.Analytics": {
+              "target": "Package",
+              "version": "[4.0.5, )"
+            },
+            "Xamarin.Firebase.iOS.Auth": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Xamarin.Firebase.iOS.Core": {
+              "target": "Package",
+              "version": "[4.0.13, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

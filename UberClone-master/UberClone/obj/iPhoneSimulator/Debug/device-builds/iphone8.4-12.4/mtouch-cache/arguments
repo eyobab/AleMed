@@ -1,0 +1,4 @@
+# Version: 12.14.0.114 (d16-2): c6691164)
+# [first argument, ignore] # @/Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.4/response-file.rsp
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mtouch/mtouch.exe \
+	'--gcc_flags=-Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/phihoanghuy/Downloads/CSharp/Uber/UberClone/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.4/Entitlements.xcent' \

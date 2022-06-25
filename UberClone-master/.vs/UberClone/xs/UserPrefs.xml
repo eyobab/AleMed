@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BD3796BA-C0FD-46A0-941C-EC958896E6B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UberClone/SearchViewController.cs">
+    <Files>
+      <File FileName="UberClone/SearchViewController.cs" Line="83" Column="10" />
+      <File FileName="UberClone/MapViewController.cs" />
+      <File FileName="UberClone/SignUpViewController.cs" />
+      <File FileName="UberClone/MapViewDelegate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UberClone" expanded="True">
+            <Node name="UberClone" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="SearchViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="UberClone" expanded="True" selected="True">
+            <Node name="UberClone" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UberClone automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1AF6A8CD-22E6-4156-A145-5B5D5CD9558D" HideGettingStarted="True" />
+</Properties>
